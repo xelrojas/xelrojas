@@ -1,6 +1,6 @@
 # Hi, I'm Xelic ​👩🏻‍💻
 
-![banner gif2](https://github.com/xelrojas/xelrojas/assets/70447276/d09f5fc7-4dbb-4d02-b6d6-3662a294a234)
+![banner gif2 (1)](https://github.com/xelrojas/xelrojas/assets/70447276/5af07711-f911-498e-97fd-5561905dd60a)
 
 
 I'm Industrial Engineer specialized in Total Quality. Currently, I'm working as a Functional Consultant at an Odoo partner company, where I dive deep into ERP software and ensure its seamless integration. My journey involves a blend of consultancy, testing, and quality assurance, where I meticulously handle everything from user stories to software delivery. 🚀
