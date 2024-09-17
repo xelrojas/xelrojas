@@ -3,7 +3,7 @@
 ![banner gif2 (1)](https://github.com/xelrojas/xelrojas/assets/70447276/5af07711-f911-498e-97fd-5561905dd60a)
 
 
-I'm Industrial Engineer specialized in Total Quality. Currently, I'm working as a Functional Consultant at an Odoo partner company, where I dive deep into ERP software and ensure its seamless integration. My journey involves a blend of consultancy, testing, and quality assurance, where I meticulously handle everything from user stories to software delivery. 🚀
+I’m an Industrial Engineer with a specialization in Total Quality, currently thriving as a Functional Consultant at an Odoo partner company. My role involves an in-depth focus on ERP systems, ensuring smooth integration and functionality. I combine consultancy, rigorous testing, and quality assurance to manage the entire lifecycle—from user stories to successful software delivery. 🚀
 
 ## 🌱 I’m currently learning
 
