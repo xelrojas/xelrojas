@@ -20,13 +20,6 @@ I’m an Industrial Engineer with a specialization in Total Quality, currently t
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-### Database
-
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
 ### 📚 Hobbies
 When I'm not immersed in the world of technology, you can find me in my hobbies:
 
