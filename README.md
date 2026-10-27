@@ -8,7 +8,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/ea5b000c-52b8-4761-9c23-51425390c209)
 
-📍 Mérida, Yucatán, México · 🌎 Remote · 🗣️ Spanish (native) · English (B2)
+📍 México · 🌎 Remote · 🗣️ Spanish (native) · English (B2)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xelicrojas)
 ![Open to opportunities](https://img.shields.io/badge/Open_to-new_opportunities-9B59B6?style=for-the-badge)
