@@ -45,16 +45,6 @@ superpower:  Speaking both "business" and "developer" fluently
 
 ---
 
-## 💼 Experience
-
-**Vauxoo** · *Project Manager & Functional Consultant (Odoo ERP)* · Remote · Nov 2022 – Aug 2026
-> End-to-end project leadership, Agile team coordination (backend, frontend, consulting, QA), scope & change control, release management, stakeholder management and client training.
-
-**Volkswagen de México** · *Quality Assurance Engineer (PMO Support) – Internship* · Remote · Aug 2021 – Feb 2022
-> Quality Management System (QMS) maintenance, traceability and compliance; schedule, risk and milestone tracking with status reporting for management.
-
----
-
 ## 🧰 Tech stack & tools
 
 ### ⚙️ ERP & Technology
