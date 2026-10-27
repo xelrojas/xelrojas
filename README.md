@@ -113,7 +113,6 @@ reading 📖 · at the gym 🏋🏻‍♀️ · watching movies 🎬 · taking c
 If you're working on ERP, software delivery, QA or AI-powered project management — or just want to talk tech — I'd love to hear from you. 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xelicrojas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xelicrojas@gmail.com)
 
 _Thanks for stopping by! ✨_
 
