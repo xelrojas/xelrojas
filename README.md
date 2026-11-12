@@ -8,7 +8,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/ea5b000c-52b8-4761-9c23-51425390c209)
 
-📍 Mérida, México · 🌎 Remote · 🗣️ Spanish (native) · English (B2)
+📍 México · 🌎 Remote · 🗣️ Spanish (native) · English
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xelicrojas)
 ![Open to opportunities](https://img.shields.io/badge/Open_to-new_opportunities-9B59B6?style=for-the-badge)
@@ -37,16 +37,24 @@ currently:   Building AI agents & automations for ERP delivery
 ## 🌱 What I'm up to
 
 - 🤖 Exploring **AI agents** to automate the day-to-day of ERP projects
-- 📊 Building **Python dashboards connected to Odoo via MCP**
+- 📊 Building **Python dashboards**
 - ✨ Learning **AI-assisted development (vibecoding)** — check out my projects below!
 
 ---
 
 ## 📌 Featured project
 
-<a href="https://github.com/xelrojas/ultimas-veces">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xelrojas&repo=ultimas-veces&theme=radical&title_color=9B59B6&icon_color=9B59B6&border_color=9B59B6" alt="ultimas-veces" />
-</a>
+<table>
+  <tr>
+    <td>
+      <h3>💜 <a href="https://github.com/xelrojas/ultimas-veces">ultimas-veces</a></h3>
+      <p>My final project from the <b>Technolochicas</b> vibecoding course, built with AI-assisted development.</p>
+      <a href="https://github.com/xelrojas/ultimas-veces">
+        <img src="https://img.shields.io/badge/View_repo-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="View repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,18 +86,6 @@ currently:   Building AI agents & automations for ERP delivery
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Automation-9B59B6?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 🏅 Certifications
-
-![AIAM](https://img.shields.io/badge/AI_Agent_Manager_(AIAM)-CertiProf_2026-9B59B6?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum_Foundation-CertiProf_2026-9B59B6?style=flat-square)
-![AI-900](https://img.shields.io/badge/Azure_AI_Fundamentals_(AI--900)-Microsoft_2025-0078D4?style=flat-square)
-![Google PM](https://img.shields.io/badge/Project_Management-Google_2024-4285F4?style=flat-square)
-![Google Agile](https://img.shields.io/badge/Agile_Project_Management-Google_2024-4285F4?style=flat-square)
-![Google IT](https://img.shields.io/badge/IT_Support_%26_Data_Analysis-Google_2023-4285F4?style=flat-square)
-![LSSGB](https://img.shields.io/badge/Lean_Six_Sigma_Green_Belt-SigmaPro_2022-2E8B57?style=flat-square)
 
 ---
 
